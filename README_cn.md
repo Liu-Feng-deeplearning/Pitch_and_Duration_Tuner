@@ -1,6 +1,6 @@
-# Pitch_and_Duration_Tuner
+# Pitch_and_Duration_Tuner Pitch/Duration 修改器
 
-[中文版](README_cn.md)
+
 
 The wrapper for praat to change Pitch or Duration for fragment of audio(**not the whole audio**)
 
